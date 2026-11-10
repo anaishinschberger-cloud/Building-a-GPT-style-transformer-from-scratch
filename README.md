@@ -15,16 +15,16 @@ Implemented a decoder-only Transformer featuring:
 
 ### Experiments and Results
 
-#### Experiment 1 : Tiny Shakespeare
+#### Experiment 1: Tiny Shakespeare
 
 Implemented a Bigram baseline and a Transformer to compare their language modeling performance.
 
 | Model | Best validation loss |
 |---|---:|
-| Bigram | ~2.49 |
-| Transformer | ~1.48 |
+| Bigram | ~2.48 |
+| Transformer | ~1.49 |
 
-#### Experiment 2 : SimpleStories
+#### Experiment 2: SimpleStories
 
 Trained the Transformer from scratch on a larger dataset to improve text generation and generalization.
 
